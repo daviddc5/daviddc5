@@ -1,8 +1,9 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
+   <h1>Hi, I'm David Diaz Clifton 👋</h1>
+  <h3>Full Stack Developer | London, UK 🇬🇧 | Focused on frontend, driven by great UX</h3>
   
-  <h1>Hi, I'm David Diaz Clifton 👋</h1>
-  <h3>Full Stack Developer | London, UK 🇬🇧 |</h3>
+  <p>Building apps that solve real problems. Currently @ Vindico ICS — crafting tools for 50k+ care home users.</p>
 
 </div>
 
