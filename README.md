@@ -18,17 +18,6 @@
 ---
 
 <div align="center">
-  <h3>📌 Recent Highlights</h3>
-  <ul>
-    <li>🛠️ Rebuilt a care home entertainment system to boost resident engagement</li>
-    <li>📚 Delivered a LMS used for staff training and certification</li>
-    <li>🚁 Developed a Drone Radar Simulator for BAE Systems during uni placement</li>
-  </ul>
-</div>
-
----
-
-<div align="center">
   <h3>🌍 Let's Connect</h3>
   <a href="https://www.linkedin.com/in/daviddiazclifton">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
