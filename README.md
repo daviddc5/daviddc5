@@ -3,9 +3,7 @@
    <h1>Hi, I'm David Diaz Clifton 👋</h1>
   <h3>Full Stack Developer | London, UK 🇬🇧 | Focused on frontend, driven by great UX</h3>
 </div>
-
 ---
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nodejs,firebase,mongodb,tailwind,gcp,git,github,vite,figma&perline=9" />
 </div>
