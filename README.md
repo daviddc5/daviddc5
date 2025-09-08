@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
    <h1>Hi, I'm David Diaz Clifton 👋</h1>
-  <h3>Full Stack Developer | London, UK 🇬🇧 | Focused on frontend, driven by great UX</h3>
+  <h3>Full Stack Developer | London, UK 🇬🇧 </h3>
 </div>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nodejs,firebase,mongodb,tailwind,gcp,git,github,vite,figma&perline=9" />
